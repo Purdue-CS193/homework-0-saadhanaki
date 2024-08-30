@@ -1,5 +1,9 @@
 ## Saadhana's First CS 193 Homework!
 
+- CS 193 allows me to get my questions and doubts answered by experienced TAs.
+- CS 193 provides me with the opportunity to meet other students in CS and form study groups with them.
+- CS 193 supplements my understanding of CS 180 concepts and provides me with additional support on programming/debugging.
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
